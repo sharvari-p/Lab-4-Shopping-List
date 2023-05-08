@@ -1,6 +1,6 @@
-# Lab3-Shopping List
+# Lab4-Shopping List with new features
 
-I have implemented the following tasks:
-- Alert Dialog box
-- Vertical Scroll
-- Settings
+I have implemented the following features:
+- Sound when button is clicked
+- Animation
+- Sensor
